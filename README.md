@@ -2,6 +2,14 @@
 
 An App Inventor 2 extension created using Rush.
 
+Download AIX:
+
+<a href="https://github.com/bextdev797/Touch/raw/main/out/com.bextdev.touch.aix">Touch.aix</a>
+
+Download AIA:
+
+<no_link_found>
+
 ## Free Alternative
 <a href="https://community.kodular.io/t/free-touchz-an-extension-to-add-touch-up-touch-down-and-more-actions-to-components/175956?u=brandon_ang">TouchZ by Avijit</a> 
 
