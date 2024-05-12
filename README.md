@@ -6,9 +6,9 @@ Download AIX:
 
 <a href="https://github.com/bextdev797/Touch/raw/main/out/com.bextdev.touch.aix">Touch.aix</a>
 
-Download AIA:
+Download AIA (how to do it):
 
-<no_link_found>
+<a href="https://github.com/bextdev797/Touch/raw/main/assets/Touch.aia">Touch.aia</a>
 
 ## Free Alternative
 <a href="https://community.kodular.io/t/free-touchz-an-extension-to-add-touch-up-touch-down-and-more-actions-to-components/175956?u=brandon_ang">TouchZ by Avijit</a> 
